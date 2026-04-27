@@ -1,0 +1,19 @@
+{
+  "best_model_name": "Logistic Regression",
+  "best_params": {
+    "C": 1.0,
+    "max_iter": 10000,
+    "solver": "saga"
+  },
+  "accuracy": 0.8281612835127719,
+  "f1_macro": 0.8273411253463675,
+  "f1_weighted": 0.8295128220086291,
+  "classes": [
+    "age",
+    "ethnicity",
+    "gender",
+    "not_cyberbullying",
+    "other_cyberbullying",
+    "religion"
+  ]
+}
