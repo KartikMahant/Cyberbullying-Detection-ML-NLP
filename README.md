@@ -157,6 +157,4 @@ streamlit • numpy • pandas • matplotlib • seaborn • scikit-learn • n
 
 ---
 
-<p align="center">
-  ⭐ If you like this project, give it a star!
 </p>
